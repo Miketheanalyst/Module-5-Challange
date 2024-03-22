@@ -1,0 +1,48 @@
+The number of mice is 249
+
+Removing the duplicate mouse (g989)
+
+The number of mice is 248
+
+
+Capomulin appears to be the drug with the greatest ammount of timepoints at roughly 280
+followed by Ramicane 270 ish.
+
+
+The amount of timepoints is valuable as it increases the resolution and value of the observations and analysis.
+
+
+The realtionship of Male to Female mice is roughly equal 1:1, this is a good way to determine if sex is a modifier of outcomes.
+The weight of the modifier is roughly equal in this case.
+
+Box Plots (4 Drugs)
+Considering only 4 drugs. Capomulin, Ramicane, Infubinol and Ceftamin.
+It appears the most effective is Ramicane with a mean tumor volume of 36 mm3
+followed by Capomulin at 38 mm3
+
+
+F966
+
+I followed the tumor values of Mouse F966 which uses Capomulin.
+As we may recal, Capomulin is the most effective drug.
+The results shows a final value of 33 mm3 compared to a starting value of 45 mm3.
+The time delta between the start and end of the trial for this mouse is 45 days.
+It appears the treatment has been significantly successfull in reducing tumor volume.
+
+There is however a peculiar trend that could be significant, the tumor appears to grow slighly at diferent poitns during the trial.
+Before dropping off in two instances, at the end of the trial we can also see there could be a third reapearance of this trend.
+
+
+
+Linear Regression 
+
+
+There apears to be a direct relationship between the weight of the mouse and the Tumor volume.
+y = 1.75x + 1.45
+
+This finding is not particularly surprising as the weight of the mouse is also directly related to its overall volume.
+
+
+
+
+
